@@ -12,3 +12,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sametdolanbay"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sametdolanbay" /></a></p><br><br>
+
+
+![snake gif](https://github.com/dlnbysamet0/dlnbysamet0/blob/output/github-contribution-grid-snake.gif)
